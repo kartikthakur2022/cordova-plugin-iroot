@@ -103,7 +103,25 @@ public final class Constants {
             "/system/usr/we-need-root/su-backup/",
             "/system/xbin/mu/",
             // added from https://github.com/dmsyudis/Root_detect_3method_security/blob/24e0141c467ca2c9d9375ee66f4bf92944ca2a7c/app/src/main/java/com/duakoma/root_detect_3method_security/MainActivity.java
-            "/magisk/.core/bin/"
+            "/magisk/.core/bin/",
+            "/sbin/su”, 
+			"/sbin/su/“,
+			"/system/bin/su”,
+			"/system/bin/su/",
+            "/system/xbin/su”,
+			"/system/xbin/su/“, 
+			"/data/local/xbin/su”, 
+			"/data/local/bin/su”, 
+			"/system/sd/xbin/su",
+            "/system/bin/failsafe/su”, 
+			"/data/local/su”, 
+			"/su/bin/su”,
+			"/su/",
+            "/system/su”,
+			"/system/bin/.ext/.su”,
+			"/system/usr/we-need-root/su-backup",
+            "/system/xbin/mu",
+            "/system/su/“,
     );
 
     // ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---
